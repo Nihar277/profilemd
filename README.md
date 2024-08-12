@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Nihar Bharatia </h1>
 <h3 align="center">Machine Learning Engineer | Backend Developer </h3>
 <p align="center">
-<a href="https://instagram.com/nihrrr.999" target="blank"><img align="center" src="https://github.com/user-attachments/assets/29cc330a-0964-449a-ab83-5d017bd9380e" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://instagram.com/nihrrr.999" target="blank"><img align="center" src="https://github.com/user-attachments/assets/4bc86442-75de-412c-a7a6-b93436203c25" alt="insta_ovindu" height="30" width="40" /></a>
  <a href = "mailto: niharbharatia614@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
