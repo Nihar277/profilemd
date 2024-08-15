@@ -29,23 +29,23 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Tech-Stack***
 
-<p align="center">
-  <img src="https://github.com/uannabi/-/blob/master/resource/git.svg" alt="Git" height="50"/>
-  <img src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg" alt="Python" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="Spyder" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" height="50"/>
-  <img src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" alt="Matplotlib" height="50" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="NumPy" height="50"/>
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg" alt="SciPy" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="Netlify" height="50"/>
-  <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="Scikit-Learn" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="TensorFlow" height="50"/>
+<p>
+  <img src="https://img.shields.io/badge/Git-%2312100E.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%2312100E.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%2312100E.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spyder-%2312100E.svg?style=for-the-badge&logo=spyder-ide&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-%2312100E.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%2312100E.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-%2312100E.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-%2312100E.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-%2312100E.svg?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-%2312100E.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Heroku-%2312100E.svg?style=for-the-badge&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-%2312100E.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/SciPy-%2312100E.svg?style=for-the-badge&logo=scipy&logoColor=white">
+  <img src="https://img.shields.io/badge/React-%2312100E.svg?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%2312100E.svg?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-%2312100E.svg?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--Learn-%2312100E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-%2312100E.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
