@@ -16,7 +16,7 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nihar277/Nihar277/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" />
   <br/>
 </div>
 
